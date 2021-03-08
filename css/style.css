@@ -1,0 +1,342 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@500&display=swap'); */
+html {
+  overflow-x: hidden;
+}
+
+ body {
+    font-family: 'Fira Sans Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.166667px;
+  line-height: 1.7em;
+  color: #7e8690;
+} 
+
+.media {
+   
+    font-size: 14px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+section.hospital {
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+
+
+p#details {
+    font-size: 22px;
+}
+section.key {
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.types {
+    font-size: 16px;
+}
+.doctor {
+    font-family: 'Fira Sans Condensed', sans-serif;
+ }
+ section.team {
+    font-family: 'Fira Sans Condensed', sans-serif;
+}p#look {
+    font-size: 18px;
+}
+
+
+p#text1 {
+    font-size: 14px;
+}
+section.footer {
+    font-size: 15px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+   
+}   
+
+
+
+section.header {
+    background-color: #54ca4c;
+    
+
+    }
+    .media ul li{
+        float: left;
+        list-style: none;
+        padding-top: 10px;
+    padding-top:  05px; 
+    margin-top: 05px;   
+
+        
+    }
+
+    
+    i.fas.fa-envelope {
+        padding-right: 10px;
+    }
+    i.fas.fa-mobile-alt {
+        padding-right: 10px;
+        margin-left:20px 
+    }
+    li.mail {
+        
+        padding-right: 20px;
+       
+        
+    }
+    
+li.mobile{
+    border-left: 2px solid;
+       
+}
+    .media1 ul li{
+    margin-top: 05px;
+    display: inline-block;
+    
+    padding-right: 20px;
+    
+    }
+    /* i.fab.fa-google-plus-square {
+        padding-left: 10px;
+    }
+    i.fab.fa-twitter {
+        padding-left: 10px;
+    }
+    i.fab.fa-facebook-square {
+        padding-left: 10px;
+    
+    }
+     */
+     li.nav-item.active {
+        border-left: #2d8067 3px solid;
+    }
+    a.nav-link {
+        text-transform: uppercase;
+        font-size: 14px;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+        
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: rgb(10 7 7);
+      
+       
+    }
+    
+    
+    body {
+        overflow-x: hidden;
+    }
+    .hospital{
+        
+        background: url(../images/doctor.jpg)  no-repeat;
+        
+        position: relative;
+        padding: 100px;
+    background-size: cover;
+        background-position: center;
+     
+     }
+   
+
+     a.navbar-brand {
+        padding-right: 90x;
+        padding-left: 90px;
+    }
+     h1#heading {
+        font-size: 32px;
+    }
+    p#details {
+        font-size: 20px;
+    }
+  
+     h1#key {
+        font-size: 36px;
+    }
+    p#key1 {
+        font-size: 20px;
+    } 
+    .container.p-5 {
+        text-align: center;
+    }
+.hellodoctor {
+        background: url(../images/check.jpg);
+        background-attachment: fixed;
+        position: relative;
+       padding: 80px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: bottom;
+      
+    }
+    .container.p-3 {
+        text-align: end;
+    }
+    
+    .meeting {
+        
+        text-align: center;
+    }
+    .free {
+        padding: 50px;
+    }
+    a.maria3 {
+        color: black;
+        padding-right: 10px;
+    } 
+    a.maria1 {
+        padding-right: 10px;
+        color: black;
+    }
+    a.maria2 {
+    
+        color: black;
+        padding-right: 10px;
+    }  
+    section.footer {background-color: #4e4b4b;
+    
+  
+
+}
+
+.col-md-4 {
+    margin-top: 20px;
+}
+
+a.chris1 {
+    color: black;
+    padding-right: 10px;
+}
+a.chris2 {
+    color: black;
+    padding-right: 10px;
+
+
+}
+a.chris3 {
+
+    color: black;
+    padding-right: 10px;
+}  
+
+a.lexi1 {
+    color: black;
+    padding-right: 10px;
+}
+a.lexi2 {
+    color: black;
+    padding-right: 10px;
+
+
+}
+a.lexi3 {
+
+    color: black;
+    padding-right: 10px;
+}  
+.social {
+    float: right;
+}
+
+a.foot1 {
+    color: black;
+    padding-right: 10px;
+}
+a.foot2 {
+    color: black;
+    padding-right: 10px;
+
+
+}
+a.foot3 {
+
+    color: black;
+    padding-right: 10px;
+}  
+
+.social {
+    padding-left: 70px;
+    padding-top: 12px;
+    
+}
+.text-bottom {
+    margin-top: 50px;
+}
+section.key {
+    padding: 50px;
+}
+section.team {
+    padding: 50px;
+}
+
+p.dental {
+    padding-right: 145px;
+    font-size: 18px;
+}
+.doctor {
+    text-align: end;
+}
+
+p#reserve {
+    margin: 04px;
+}
+
+
+
+
+
+@media only screen and (max-width: 568px) and (min-width: 320px){
+.doctor h1 { 
+    font-size: 18px;
+}
+p.dental {
+    padding-right: 05px;
+    }
+
+}
+ /* Medium devices (tablets, 768px and up) */
+@media (max-width: 767px) { 
+
+
+    .text-bottom {
+        margin-top: 0px;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .media1 ul li {
+        margin-top: 10px;
+        display: inline-block;
+        padding-right: 10px;
+    }
+    .social {
+        padding-left: 60px;
+        padding-top: 10px;
+    }
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+    
+    body{
+        background: red;
+    }
+    .text-bottom {
+        margin-top: 0px;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .media1 ul li {
+        margin-top: 10px;
+        display: inline-block;
+        padding-right: 10px;
+    }
+    .social {
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (max-width: 1200px) { }
